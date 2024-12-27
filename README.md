@@ -1,34 +1,44 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5600B2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8efd4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5600B2&size=35&center=true&vCenter=true&width=1000&lines=Whats+up,+my+name+is+Luccas+Fernandes;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## 💫 Olá, meu nome é Luccas!
 
+Sou estudante de Análise e Desenvolvimento de Sistemas, além de um entusiasta da tecnologia.
+
+🔭 Atualmente, estou estagiando na Secretaria da Controladoria Geral do Estado.
+
+💬 Preocupado com uma única folha, você não verá a árvore.
+
+---
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luccas-fernandes&show_icons=true&count_private=true&hide_border=true&title_color=5600B2&icon_color=91ff7a&text_color=ffffff&bg_color=0d1117" alt="Luccas Fernandes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-fernandes&layout=compact&hide_border=true&title_color=5600B2&text_color=ffffff&bg_color=0d1117" />
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=luccas-fernandes&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"> 
+</div>
+<h3> 💫 Skills! </h3> 
+
+<h5>🔭 Hard: </h5>
+
+<div display="inline-block">
+<img src="https://img.shields.io/badge/Python-14354C??style=plastic&logo=python&logoColor=white." />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E34F26?style=plastic&logo=git&logoColor=white" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccas-fernandes&bg_color=0d1117&color=ffffff&line=2a0a55&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h5>🔭 Banco de Dados: </h5>
+<div display="inline-block">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" />
+</div>
 
-<div align="center"> 
-<a href="https://www.instagram.com/luccasf7_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:linkedinluccas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luccas-fernandes-07a283239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
- </div>
-  
- 
-  ### Main skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<h5>🔭 Learning: </h5>
+<div display="inline-block">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
 
+</div>
 
-### Studying in this moment:
+---
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-20232a.svg?style=for-the-badge&logo=java&logoColor=red">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -36,4 +46,4 @@
 <br>
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5600B2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8efd4&height=120&section=footer"/>
